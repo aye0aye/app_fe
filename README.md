@@ -1,2 +1,2 @@
-# app_fe
-Front end of demo app
+# vote_fe
+Front end component of the voting app
