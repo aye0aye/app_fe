@@ -25,7 +25,7 @@ jobs:
     steps:
       - OUT: dh_img_app_fe
     flags:
-      - dev
+      - ci
 
 # Language setting http://docs.shippable.com/ci/languages/python/
 language: python
